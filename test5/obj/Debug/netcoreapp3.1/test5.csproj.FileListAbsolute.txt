@@ -1,0 +1,14 @@
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.csproj.AssemblyReference.cache
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.AssemblyInfoInputs.cache
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.AssemblyInfo.cs
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.csproj.CoreCompileInputs.cache
+D:\Project\test5\test5\bin\Debug\netcoreapp3.1\test5.exe
+D:\Project\test5\test5\bin\Debug\netcoreapp3.1\test5.deps.json
+D:\Project\test5\test5\bin\Debug\netcoreapp3.1\test5.runtimeconfig.json
+D:\Project\test5\test5\bin\Debug\netcoreapp3.1\test5.runtimeconfig.dev.json
+D:\Project\test5\test5\bin\Debug\netcoreapp3.1\test5.dll
+D:\Project\test5\test5\bin\Debug\netcoreapp3.1\test5.pdb
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.dll
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.pdb
+D:\Project\test5\test5\obj\Debug\netcoreapp3.1\test5.genruntimeconfig.cache
